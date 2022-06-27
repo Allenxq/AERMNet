@@ -1,5 +1,5 @@
 # AERMNet
-medical image report generation.
+论文名字medical image report generation.
 
 1. open **test_AERMNet.py**
 
