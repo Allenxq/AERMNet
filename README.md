@@ -1,5 +1,5 @@
 # AERMNet
-AERMNet: Attention-enhanced relational memory network for medical image report generation.
+medical image report generation.
 
 1. open **test_AERMNet.py**
 
