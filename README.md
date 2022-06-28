@@ -11,5 +11,5 @@
 
 5. Run **test_AERMNet.py**
 
-6. 
+6. Testing the effects of AERMNet model generation reports
 ![image](https://github.com/Allenxq/AERMNet/blob/main/test.jpg)
