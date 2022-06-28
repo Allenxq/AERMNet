@@ -2,7 +2,7 @@
 Attention-Enhanced Relational Memory Network for Medical Image Report Generation.
 
 # Report generation process
-1. Open **test_AERMNet.py**
+1. Open ___test_AERMNet.py___
 
 2. Load **AERMNet.pth.tar** (You can download the AERMNet model we trained for IU X-Ray dataset from [here](https://drive.google.com/file/d/1o9BYUXnZu0w9eYtgVH66Dz53hV2GnLMp/view?usp=sharing](https://drive.google.com/file/d/1o9BYUXnZu0w9eYtgVH66Dz53hV2GnLMp/view?usp=sharing)))
 
