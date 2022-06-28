@@ -1,5 +1,5 @@
 # AERMNet
-论文名字medical image report generation.
+Attention-Enhanced Relational Memory Network for Medical Image Report Generation.
 
 # Report generation process
 1. open **test_AERMNet.py**
