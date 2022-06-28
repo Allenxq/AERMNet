@@ -5,6 +5,7 @@ Attention-Enhanced Relational Memory Network for Medical Image Report Generation
 1. open **test_AERMNet.py**
 
 2. load **AERMNet.pth.tar**
+You can download the models we trained for each dataset from here.
 
 3. load **WORDMAP.json**
 
