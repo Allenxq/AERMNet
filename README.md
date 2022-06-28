@@ -10,3 +10,6 @@
 4. load medical image path
 
 5. Run **test_AERMNet.py**
+
+6. 
+![image](https://github.com/Allenxq/AERMNet/blob/main/test.jpg)
